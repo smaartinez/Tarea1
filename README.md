@@ -26,9 +26,10 @@ Para esto:
 
 3. Para compilar el codigo
 - Crea una nueva terminal, en Terminal -> Nueva Terminal
-- En la terminal coloca este comando: **gcc Tarea1.c arraylist.c** (Esto lo que hará será crear un Archivo.Exe para ejecutar el programa)
-- Luego ingresa a la carpeta donde hayas descomprimido el programa y ejecuta el .Exe
+- En la terminal coloca este comando: **gcc Tarea1.c arraylist.c**
 
+(Esto lo que hará será crear un Archivo.Exe para ejecutar el programa)
+Luego ingresa a la carpeta donde hayas descomprimido el programa y ejecuta el .Exe
 
 # Funcionalidades
 - Registrar tickets
